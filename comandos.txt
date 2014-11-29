@@ -1,0 +1,7 @@
+pre requisito, estar dentro da pasta que contem o app.js
+instalar o express
+npm install --save express
+instalar socket.io
+npm install --save socket.io
+startar servidor
+node app.js
